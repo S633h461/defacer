@@ -7,5 +7,6 @@ git clone https://github.com/sreeharimj/defacer.git
 
 
 cd Defacer
+
 python dead.py
 
