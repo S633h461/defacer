@@ -3,7 +3,7 @@
 
 pkg install python
 
-git clone https://github.com/sreeharimj/defacer.git
+git clone https://github.com/S633h461/defacer.git
 
 
 cd Defacer
