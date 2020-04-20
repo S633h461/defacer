@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#CYBER_DEADSHOT
-#CODED BY D34D_5H07
+#S633h461 
+#CODED BY S633h461
 
 try:
    import requests
@@ -11,8 +11,8 @@ except ImportError:
    exit("install requests and try again ...")
 
 banner = """
-83 54 51 51 72 52 54 49 
-                     >>CODED BY D34D_5H07<<
+83 54 51 51 72 52 54 49 """
+                     >>CODED BY S633h461<<
                    >>CLICK CNTRL+C  TO STOP<<
       >>YOU CAN FIND THE LIST OF DEFACED SITES IN result.txt <<
 """
